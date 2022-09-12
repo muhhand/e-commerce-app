@@ -1,6 +1,11 @@
 # ecommerce_app
 
-A new Flutter project.
+Firebase Clouding Storage 
+Sqlflite local Database
+Shared Preferences
+Google/Facebook Sign-up
+Getx State management
+MVVM Clean Architecture
 
 ## Getting Started
 
