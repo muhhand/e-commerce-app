@@ -7,6 +7,14 @@ Google/Facebook Sign-up
 Getx State management
 MVVM Clean Architecture
 
+![Screenshot](1.jpg)
+![Screenshot](2.jpg)
+![Screenshot](3.jpg)
+![Screenshot](4.jpg)
+![Screenshot](5.jpg)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
